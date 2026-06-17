@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "volatilefireworkstars",
+	"version": "${version}",
+	"name": "Volatile Firework Stars",
+	"description": "High-impact firework stars.",
+	"authors": ["Krontixz"],
+	"contact": {},
+	"license": "CC-BY-4.0",
+	"icon": "assets/volatilefireworkstars/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.krontixz.volatilefireworkstars.VolatileFireworkStars"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.0",
+		"minecraft": "~26.2",
+		"fabric-api": "*"
+	}
+}
