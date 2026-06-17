@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "volatilefireworkstars:item/volatile_firework_star"
+	}
+}
